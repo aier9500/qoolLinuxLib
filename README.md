@@ -28,7 +28,7 @@ flatpak remote-add --if-not-exists --user flathub https://dl.flathub.org/repo/fl
 
 ## Index
 
-### [Editor’s Choice](Docs/editorChoice.md)
+### [Editor’s Choice](Docs/editorsChoice.md)
 
 Try them out!
 
