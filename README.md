@@ -34,7 +34,7 @@ Try them out!
 
 These are apps that the editors have found a use for or have found very interesting.
 
-### [Essentials](Docs/essentials.MD)
+### [Essentials](Docs/essentials.md)
 
 Highly recommended.
 
