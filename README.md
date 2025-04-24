@@ -63,6 +63,7 @@ For the Gnome fans!
 - Pano
 - Papers
 - rQuickshare
+- Scrpy
 
 ## Delisted
 
