@@ -4,10 +4,10 @@ A list of very useful or very cool apps!
 
 Scroll down to [Index](#index).
 
-**<sub>Contacts:<sub>**\
+**<sub>Contacts</sub>**\
 Discord server: https://discord.gg/WkeNeu8NGt.
 
-**<sub>Editors:<sub>**\
+**<sub>Editors:</sub>**\
 aier (Fedora, formerly NixOS), Jose (Arch-based), Lunear (Arch).
 
 P.S. You can always just search for these apps in your app store (if your desktop environment or distro comes with one) instead of using the terminal.
@@ -16,11 +16,11 @@ Have fun exploring!
 
 ## Setting up Flatpak
 
-You might need to set up Flatpak on your distro before you can start installing them. If you haven’t set up Flatpak, check [here](https://flathub.org/setup).
+You might need to set up Flatpak on your distro before you can start installing them. If you haven’t set up Flatpak on your computer, check [here](https://flathub.org/setup).
 
 If you want to also have the option to install Flatpaks on a per-user basis (other users of your computer won’t see those apps when they log in), you can add the Flathub repository for your user by running this line.
 
-**Fedora**
+**<sub>Fedora</sub>**
 
 ```bash
 flatpak remote-add --if-not-exists --user flathub https://dl.flathub.org/repo/flathub.flatpakrepo
@@ -52,6 +52,7 @@ For the Gnome fans!
 
 ## To be added (when the editors have time)
 
+- Bitwarden
 - Blender
 - Darktable
 - Drawing
@@ -59,7 +60,7 @@ For the Gnome fans!
 - Inkscape
 - LocalSend
 - Mission Center
-- Nautilus
+- Obsidian
 - Pano
 - Papers
 - rQuickshare
