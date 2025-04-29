@@ -1,3 +1,5 @@
+<sub>Go back to [Linux Apps Library](../linuxAppsLibrary.md)</sub>
+
 # Editor's Choice
 
 ## [Nautilus (File Manager)](https://apps.gnome.org/Nautilus/)

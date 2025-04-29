@@ -1,3 +1,5 @@
+<sub>Go back to [Linux Apps Library](../linuxAppsLibrary.md)</sub>
+
 # Gnomie
 
 ## [Dconf Editor](https://flathub.org/apps/ca.desrt.dconf-editor)

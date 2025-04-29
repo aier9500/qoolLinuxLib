@@ -1,3 +1,5 @@
+<sub>Go back to [Linux Apps Library](../linuxAppsLibrary.md)</sub>
+
 # Popular
 
 ## [Discord](https://flathub.org/apps/com.discordapp.Discord)

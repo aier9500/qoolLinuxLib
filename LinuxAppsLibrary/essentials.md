@@ -1,3 +1,5 @@
+<sub>Go back to [Linux Apps Library](../linuxAppsLibrary.md)</sub>
+
 # Essentials
 
 ## [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal)
