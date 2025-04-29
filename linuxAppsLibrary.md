@@ -28,25 +28,25 @@ flatpak remote-add --if-not-exists --user flathub https://dl.flathub.org/repo/fl
 
 ## Index
 
-### [Editor’s Choice](Docs/editorsChoice.md)
+### [Editor’s Choice](LinuxAppsLibrary/editorsChoice.md)
 
 Try them out!
 
 These are apps that the editors have found a use for or have found very interesting.
 
-### [Essentials](Docs/essentials.md)
+### [Essentials](LinuxAppsLibrary/essentials.md)
 
 Highly recommended.
 
 These are apps that facilitate the use of your system and unlock its full potential.
 
-### [Popular](Docs/popular.md)
+### [Popular](LinuxAppsLibrary/popular.md)
 
 Download as needed.
 
 Your favorite apps from Windows/Mac, but on Linux!
 
-### [Gnomie](Docs/gnomie.md)
+### [Gnomie](LinuxAppsLibrary/gnomie.md)
 
 For the Gnome fans!
 
